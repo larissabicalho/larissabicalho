@@ -1,4 +1,4 @@
- <img height="600cm" width="300cm" src="https://user-images.githubusercontent.com/22267601/142197350-ad49ed31-4f66-4b78-8b27-cd4274011948.jpg">
+ <img height="400cm" width="300cm" src="https://user-images.githubusercontent.com/22267601/142197350-ad49ed31-4f66-4b78-8b27-cd4274011948.jpg">
 
 <h2>Hey! 👋</h2>
 
