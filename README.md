@@ -1,4 +1,4 @@
-![248340146_190325173196032_3535702433369341483_n](https://user-images.githubusercontent.com/22267601/142197350-ad49ed31-4f66-4b78-8b27-cd4274011948.jpg)
+ <img height="40cm" src="https://user-images.githubusercontent.com/22267601/142197350-ad49ed31-4f66-4b78-8b27-cd4274011948.jpg">
 
 <h2>Hey! 👋</h2>
 
