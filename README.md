@@ -1,3 +1,5 @@
+![248340146_190325173196032_3535702433369341483_n](https://user-images.githubusercontent.com/22267601/142197350-ad49ed31-4f66-4b78-8b27-cd4274011948.jpg)
+
 <h2>Hey! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=larissabicalho.larissabicalho)](https://github.com/larissabicalho) [![GitHub followers](https://img.shields.io/github/followers/larissabicalho.svg?style=social&label=Follow)](https://github.com/larissabicalho?tab=followers)
