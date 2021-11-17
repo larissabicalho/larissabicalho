@@ -1,6 +1,6 @@
- <img height="300cm" width="3000cm" src="https://user-images.githubusercontent.com/22267601/142197350-ad49ed31-4f66-4b78-8b27-cd4274011948.jpg">
+ <img height="300cm" width="3000cm" src="https://user-images.githubusercontent.com/22267601/142197350-ad49ed31-4f66-4b78-8b27-cd4274011948.jpg"> </br>
 
-<h2>Hey! 👋</h2>
+<h1 align=center>Hey 👋, Helcome to My :earth_americas:! </h1></br>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=larissabicalho.larissabicalho)](https://github.com/larissabicalho) [![GitHub followers](https://img.shields.io/github/followers/larissabicalho.svg?style=social&label=Follow)](https://github.com/larissabicalho?tab=followers)
 
